@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423493496187",
+    "firebase_url": "https://uts-febriansyah.firebaseio.com",
+    "project_id": "uts-febriansyah",
+    "storage_bucket": "uts-febriansyah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423493496187:android:8846b0cb84fb691c9aa1de",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7jm_1711500110_febriansyah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423493496187-rojch6u0dodm10i20a7luekl3pjn4pc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsT8Kswu48NKBZBFBdKg3F3axRLsTiMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423493496187-rojch6u0dodm10i20a7luekl3pjn4pc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
